@@ -19,5 +19,5 @@
   - [公式リファレンス](https://numpy.org/doc/stable/)
 - ## threading
   - マルチスレッド実装
-  - 信号再生中にスライドでスピードを変更する際に使用
+  - 信号再生中にスライドでスピードを変更する際にスレッド使用
   - [公式リファレンス](https://docs.python.org/ja/3/library/threading.html)
